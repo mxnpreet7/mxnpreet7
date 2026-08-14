@@ -497,3 +497,101 @@ I want to become capable of learning any technology.
 <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0E1410&animation=fadeIn" width="100%"/>
 
 </div>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0E1410&text=MANPREET%20SINGH&fontColor=F3EFE6&fontSize=55&fontAlignY=38&desc=COMPUTER%20SCIENCE%20%7C%20AI%20%7C%20WEB%20DEVELOPMENT&descColor=B9974A&descAlignY=61&descSize=16&animation=fadeIn" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&duration=3200&pause=1200&color=B9974A&center=true&vCenter=true&width=750&lines=B.Tech+CSE+Student;Building+with+C%2C+C%2B%2B+%26+Python;Exploring+Artificial+Intelligence;Prompt+Engineering+%7C+Web+Development;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/%E2%97%89%20BUILDING%20%26%20LEARNING-B9974A?style=flat-square&labelColor=0E1410&color=B9974A"/>
+
+<br><br>
+
+<a href="https://github.com/mxnpreet7">
+<img src="https://img.shields.io/badge/GitHub-0E1410?style=for-the-badge&logo=github&logoColor=F3EFE6"/>
+</a>
+
+<a href="https://www.linkedin.com/in/manpreet-singh-7063703b2">
+<img src="https://img.shields.io/badge/LinkedIn-0E1410?style=for-the-badge&logo=linkedin&logoColor=B9974A"/>
+</a>
+
+<a href="mailto:iammanpreet640@gmail.com">
+<img src="https://img.shields.io/badge/Email-0E1410?style=for-the-badge&logo=gmail&logoColor=F3EFE6"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=mxnpreet7&label=PROFILE%20VIEWS&style=flat-square&color=B9974A&labelColor=0E1410"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=B9974A&width=700"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=27&duration=4000&pause=1500&color=B9974A&center=true&vCenter=true&width=500&lines=ABOUT+ME"/>
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td width="55%" valign="top">
+
+## MANPREET SINGH
+
+B.Tech Computer Science Engineering student at **SVIET**, following the PTU curriculum.
+
+I'm building my foundation in:
+
+`C` · `C++` · `Python`
+
+while exploring:
+
+`Artificial Intelligence` · `Prompt Engineering` · `Web Development`
+
+My approach:
+
+> **Learn → Build → Break → Understand → Improve**
+
+I'm interested in creating practical software, experimenting with AI-assisted workflows, and turning ideas into useful digital products.
+
+</td>
+
+<td width="45%" valign="top">
+
+```text
+╭────────────────────────────╮
+│       PROFILE              │
+├────────────────────────────┤
+│                            │
+│  NAME                      │
+│  Manpreet Singh            │
+│                            │
+│  EDUCATION                 │
+│  B.Tech CSE                │
+│                            │
+│  COLLEGE                   │
+│  SVIET                     │
+│                            │
+│  LOCATION                  │
+│  Chandigarh, India         │
+│                            │
+│  CLASS XII                 │
+│  81.6%                     │
+│                            │
+│  GITHUB                    │
+│  mxnpreet7                 │
+│                            │
+╰────────────────────────────╯
+
