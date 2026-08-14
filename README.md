@@ -1,148 +1,159 @@
 <div align="center">
 
-<!-- ANIMATED QUIET LUXURY EDITORIAL HERO BANNER -->
+<!-- ========================================== -->
+<!-- 1. DYNAMIC ANIMATED HERO BANNER (SVG)     -->
+<!-- ========================================== -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="100%" height="auto">
   <defs>
-    <!-- Deep Forest / Ink Gradient -->
+    <!-- Background Gradient -->
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0E1410"/>
-      <stop offset="50%" stop-color="#141F18"/>
+      <stop offset="0%" stop-color="#070B08"/>
+      <stop offset="40%" stop-color="#0E1410"/>
+      <stop offset="80%" stop-color="#141F18"/>
       <stop offset="100%" stop-color="#1B2A22"/>
     </linearGradient>
 
-    <!-- Warm Gold Editorial Gradient -->
-    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <!-- Animated Shimmering Gold Gradient -->
+    <linearGradient id="animatedGold" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#8C6E2E"/>
-      <stop offset="40%" stop-color="#E2CA83"/>
+      <stop offset="30%" stop-color="#E2CA83"/>
+      <stop offset="50%" stop-color="#FFF4D0"/>
       <stop offset="70%" stop-color="#B9974A"/>
       <stop offset="100%" stop-color="#8C6E2E"/>
-      <animate attributeName="x1" values="0%;100%;0%" dur="10s" repeatCount="indefinite"/>
-      <animate attributeName="x2" values="100%;200%;100%" dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="x1" values="-100%;100%;-100%" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0%;200%;0%" dur="8s" repeatCount="indefinite"/>
     </linearGradient>
 
-    <!-- Breathing Radial Aura Glow -->
-    <radialGradient id="subtleGlow" cx="50%" cy="40%" r="50%">
-      <stop offset="0%" stop-color="#B9974A" stop-opacity="0.18">
-        <animate attributeName="stop-opacity" values="0.10;0.22;0.10" dur="6s" repeatCount="indefinite"/>
+    <!-- Pulsing Radial Ambient Light -->
+    <radialGradient id="radialAura" cx="50%" cy="45%" r="55%">
+      <stop offset="0%" stop-color="#B9974A" stop-opacity="0.22">
+        <animate attributeName="stop-opacity" values="0.08;0.25;0.08" dur="5s" repeatCount="indefinite"/>
       </stop>
       <stop offset="100%" stop-color="#0E1410" stop-opacity="0"/>
     </radialGradient>
 
-    <style>
-      @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600;800&family=Montserrat:wght@300;500&family=Playfair+Display:ital,wght@1,500&display=swap');
+    <!-- Scanning Light Bar Animation -->
+    <linearGradient id="scanBeam" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#B9974A" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#E2CA83" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#B9974A" stop-opacity="0"/>
+      <animate attributeName="x1" values="-100%;100%;-100%" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0%;200%;0%" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
 
-      .hero-title {
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@700;900&family=Montserrat:wght@400;600&family=Playfair+Display:ital,wght@1,500&display=swap');
+
+      .title {
         font-family: 'Cinzel', 'Playfair Display', Georgia, serif;
-        font-size: 54px;
-        fill: url(#goldGrad);
-        font-weight: 800;
-        letter-spacing: 7px;
-        animation: subtlePulse 5s ease-in-out infinite;
+        font-size: 56px;
+        fill: url(#animatedGold);
+        font-weight: 900;
+        letter-spacing: 8px;
+        text-shadow: 0 0 20px rgba(185, 151, 74, 0.4);
       }
-      .eyebrow {
+      .tagline {
         font-family: 'Montserrat', sans-serif;
         font-size: 13px;
         fill: #E2CA83;
-        letter-spacing: 8px;
-        font-weight: 500;
+        letter-spacing: 9px;
+        font-weight: 600;
         text-transform: uppercase;
-        opacity: 0.9;
+        opacity: 0.92;
       }
-      .meta-tag {
+      .metadata {
         font-family: 'Montserrat', sans-serif;
         font-size: 12px;
         fill: #8F9E94;
         letter-spacing: 4px;
       }
-      .editorial-quote {
+      .quote {
         font-family: 'Playfair Display', Georgia, serif;
         font-size: 16px;
         fill: #F3EFE6;
         font-style: italic;
-        opacity: 0.88;
-        letter-spacing: 1px;
+        opacity: 0.85;
+        letter-spacing: 1.2px;
       }
-      .inner-border {
-        stroke: #B9974A;
-        stroke-opacity: 0.35;
-        stroke-width: 1;
+      .border-pulse {
+        animation: borderPulse 4s ease-in-out infinite alternate;
       }
-      .corner-ornament {
-        stroke: #E2CA83;
-        stroke-width: 1.5;
-        fill: none;
-      }
-      .animated-shimmer {
-        animation: borderShimmer 4s ease-in-out infinite alternate;
-      }
-      @keyframes borderShimmer {
-        0% { stroke-opacity: 0.2; }
-        100% { stroke-opacity: 0.65; }
+      @keyframes borderPulse {
+        0% { stroke-opacity: 0.25; stroke-width: 1; }
+        100% { stroke-opacity: 0.75; stroke-width: 1.5; }
       }
     </style>
   </defs>
 
-  <!-- Background Layers -->
+  <!-- Background Base -->
   <rect width="1200" height="440" fill="url(#bgGrad)" rx="16"/>
-  <rect width="1200" height="440" fill="url(#subtleGlow)" rx="16"/>
+  <rect width="1200" height="440" fill="url(#radialAura)" rx="16"/>
 
-  <!-- Editorial Double Border Framework -->
-  <rect x="24" y="24" width="1152" height="392" rx="12" fill="none" class="inner-border animated-shimmer"/>
-  <rect x="32" y="32" width="1136" height="376" rx="8" fill="none" stroke="#B9974A" stroke-opacity="0.12" stroke-width="1"/>
+  <!-- Glowing Outer Frame -->
+  <rect x="22" y="22" width="1156" height="396" rx="12" fill="none" stroke="#B9974A" class="border-pulse"/>
+  <rect x="30" y="30" width="1140" height="380" rx="8" fill="none" stroke="#B9974A" stroke-opacity="0.15" stroke-width="1"/>
 
-  <!-- Corner Flourishes -->
-  <path d="M 24 50 L 24 24 L 50 24" class="corner-ornament"/>
-  <path d="M 1176 50 L 1176 24 L 1150 24" class="corner-ornament"/>
-  <path d="M 24 390 L 24 416 L 50 416" class="corner-ornament"/>
-  <path d="M 1176 390 L 1176 416 L 1150 416" class="corner-ornament"/>
+  <!-- Scanning Border Accent -->
+  <line x1="30" y1="30" x2="1170" y2="30" stroke="url(#scanBeam)" stroke-width="2"/>
+  <line x1="30" y1="410" x2="1170" y2="410" stroke="url(#scanBeam)" stroke-width="2"/>
 
-  <!-- Top Geometric Crest -->
-  <g transform="translate(600, 78)" text-anchor="middle">
-    <line x1="-140" y1="0" x2="-25" y2="0" stroke="#B9974A" stroke-opacity="0.4" stroke-width="1"/>
-    <polygon points="0,-4 4,0 0,4 -4,0" fill="#E2CA83"/>
-    <line x1="25" y1="0" x2="140" y2="0" stroke="#B9974A" stroke-opacity="0.4" stroke-width="1"/>
-    <text y="28" class="eyebrow">SOFTWARE ENGINEERING &amp; PROMPT ARCHITECTURE</text>
+  <!-- Editorial Corner Ornaments -->
+  <path d="M 22 55 L 22 22 L 55 22" stroke="#E2CA83" stroke-width="2" fill="none"/>
+  <path d="M 1178 55 L 1178 22 L 1145 22" stroke="#E2CA83" stroke-width="2" fill="none"/>
+  <path d="M 22 385 L 22 418 L 55 418" stroke="#E2CA83" stroke-width="2" fill="none"/>
+  <path d="M 1178 385 L 1178 418 L 1145 418" stroke="#E2CA83" stroke-width="2" fill="none"/>
+
+  <!-- Top Crown Accent -->
+  <g transform="translate(600, 76)" text-anchor="middle">
+    <line x1="-160" y1="0" x2="-30" y2="0" stroke="#B9974A" stroke-opacity="0.5" stroke-width="1"/>
+    <polygon points="0,-5 5,0 0,5 -5,0" fill="#E2CA83"/>
+    <line x1="30" y1="0" x2="160" y2="0" stroke="#B9974A" stroke-opacity="0.5" stroke-width="1"/>
+    <text y="28" class="tagline">SOFTWARE ENGINEERING &amp; PROMPT ARCHITECTURE</text>
   </g>
 
-  <!-- Main Identity Header -->
-  <text x="600" y="205" text-anchor="middle" class="hero-title">MANPREET SINGH</text>
+  <!-- Hero Name -->
+  <text x="600" y="202" text-anchor="middle" class="title">MANPREET SINGH</text>
 
-  <!-- Geo & Academic Metadata -->
-  <text x="600" y="248" text-anchor="middle" class="meta-tag">CHANDIGARH, INDIA &nbsp;•&nbsp; B.TECH CSE (SVIET / PTU)</text>
+  <!-- Sub-details -->
+  <text x="600" y="246" text-anchor="middle" class="metadata">CHANDIGARH, INDIA &nbsp;•&nbsp; B.TECH CSE (SVIET / PTU)</text>
 
-  <!-- Center Editorial Divider -->
-  <g transform="translate(600, 288)">
-    <line x1="-200" y1="0" x2="200" y2="0" stroke="#B9974A" stroke-opacity="0.3" stroke-width="1"/>
-    <circle cx="0" cy="0" r="3" fill="#E2CA83"/>
-    <circle cx="-15" cy="0" r="1.5" fill="#B9974A" opacity="0.6"/>
-    <circle cx="15" cy="0" r="1.5" fill="#B9974A" opacity="0.6"/>
+  <!-- Editorial Divider -->
+  <g transform="translate(600, 286)">
+    <line x1="-220" y1="0" x2="220" y2="0" stroke="#B9974A" stroke-opacity="0.35" stroke-width="1"/>
+    <circle cx="0" cy="0" r="3.5" fill="#E2CA83"/>
+    <circle cx="-20" cy="0" r="2" fill="#B9974A" opacity="0.6"/>
+    <circle cx="20" cy="0" r="2" fill="#B9974A" opacity="0.6"/>
   </g>
 
-  <!-- Philosophical Thesis -->
-  <text x="600" y="342" text-anchor="middle" class="editorial-quote">"Synthesizing algorithmic precision with advanced generative intelligence."</text>
+  <!-- Quote -->
+  <text x="600" y="342" text-anchor="middle" class="quote">"Synthesizing algorithmic precision with advanced generative intelligence."</text>
 </svg>
 
 <br/>
 
-<!-- DYNAMIC TYPING SVG -->
+<!-- ========================================== -->
+<!-- 2. DYNAMIC LIVE TYPING SVG                 -->
+<!-- ========================================== -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=19&pause=1800&color=B9974A&center=true&vCenter=true&width=750&lines=ARCHITECTING+ROBUST+SYSTEMS+IN+C%2B%2B+%26+PYTHON;AI+ORCHESTRATION+%7C+PROMPT+ENGINEERING+SPECIALIST;DEVELOPING+CURATED+DIGITAL+SOLUTIONS;EXCELLENCE+THROUGH+INTENTIONAL+DISCIPLINE" alt="Typing Showcase" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=20&pause=1800&color=B9974A&center=true&vCenter=true&width=800&lines=ARCHITECTING+ROBUST+SYSTEMS+IN+C%2B%2B+%26+PYTHON;AI+ORCHESTRATION+%7C+PROMPT+ENGINEERING+SPECIALIST;BUILDING+EDITORIAL-GRADE+WEB+INTERFACES;DISCIPLINE+%2B+PRECISION+IN+EVERY+LINE+OF+CODE" alt="Live Typing Reel" />
 </a>
 
 <br/><br/>
 
-<!-- BADGES & VISITOR TELEMETRY -->
+<!-- ========================================== -->
+<!-- 3. INTERACTIVE PROFILE BADGES              -->
+<!-- ========================================== -->
 <p align="center">
   <a href="https://github.com/mxnpreet7">
-    <img src="https://img.shields.io/badge/ACADEMIC-B.Tech_CSE_@_SVIET-0E1410?style=for-the-badge&labelColor=1B2A22&color=B9974A&logoColor=F3EFE6" alt="Academic" />
+    <img src="https://img.shields.io/badge/ACADEMIC-B.Tech_CSE_@_SVIET-0E1410?style=for-the-badge&labelColor=1B2A22&color=B9974A&logoColor=F3EFE6" alt="Academic Affiliation" />
   </a>
   &nbsp;
   <a href="https://github.com/mxnpreet7">
-    <img src="https://img.shields.io/badge/FOUNDATION-Class_XII_81.6%25-0E1410?style=for-the-badge&labelColor=1B2A22&color=B9974A" alt="Score" />
+    <img src="https://img.shields.io/badge/FOUNDATION-Class_XII_81.6%25-0E1410?style=for-the-badge&labelColor=1B2A22&color=B9974A" alt="Academic Score" />
   </a>
   &nbsp;
   <a href="https://komarev.com/ghpvc/?username=mxnpreet7">
-    <img src="https://komarev.com/ghpvc/?username=mxnpreet7&label=PORTFOLIO+VISITS&color=B9974A&style=for-the-badge&base=100" alt="Views" />
+    <img src="https://komarev.com/ghpvc/?username=mxnpreet7&label=PORTFOLIO+VISITS&color=B9974A&style=for-the-badge&base=100" alt="Live Views" />
   </a>
 </p>
 
@@ -152,43 +163,47 @@
 
 ### 🏛️ Executive Dossier
 
-> *Operating at the convergence of classical computational logic and next-generation large language model pipelines.*
+> *Operating at the nexus of deterministic computational logic and modern generative AI models.*
 
-<!-- ANIMATED TERMINAL WINDOW -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 240" width="100%" height="auto">
+<!-- ========================================== -->
+<!-- 4. ANIMATED LIVE INTERACTIVE TERMINAL     -->
+<!-- ========================================== -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 260" width="100%" height="auto">
   <defs>
     <style>
-      .term-text { font-family: 'Courier New', monospace; font-size: 13px; fill: #F3EFE6; }
-      .term-gold { fill: #E2CA83; font-weight: bold; }
-      .term-green { fill: #8F9E94; }
-      .term-comment { fill: #6B7C72; font-style: italic; }
-      .cursor {
-        animation: blink 1s infinite;
+      .term-body { font-family: 'Fira Code', 'Courier New', monospace; font-size: 13px; fill: #F3EFE6; }
+      .gold-tag { fill: #E2CA83; font-weight: bold; }
+      .dim-tag { fill: #8F9E94; }
+      .comment-tag { fill: #607368; font-style: italic; }
+      .cursor-blink {
+        animation: cursorBlink 0.9s steps(2, start) infinite;
         fill: #B9974A;
       }
-      @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+      @keyframes cursorBlink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
+      }
     </style>
   </defs>
 
-  <!-- Terminal Frame -->
-  <rect width="800" height="240" rx="8" fill="#0E1410" stroke="#1B2A22" stroke-width="2"/>
+  <rect width="850" height="260" rx="10" fill="#0E1410" stroke="#1B2A22" stroke-width="2"/>
   
-  <!-- Header Bar -->
-  <rect width="800" height="32" rx="8" fill="#141F18"/>
-  <circle cx="20" cy="16" r="4.5" fill="#8C6E2E"/>
-  <circle cx="36" cy="16" r="4.5" fill="#B9974A"/>
-  <circle cx="52" cy="16" r="4.5" fill="#E2CA83"/>
-  <text x="400" y="21" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" fill="#8F9E94" letter-spacing="2">manpreet@chandigarh-core ~ session: active</text>
+  <!-- Terminal Top Navigation -->
+  <rect width="850" height="34" rx="10" fill="#141F18"/>
+  <circle cx="22" cy="17" r="5" fill="#8C6E2E"/>
+  <circle cx="38" cy="17" r="5" fill="#B9974A"/>
+  <circle cx="54" cy="17" r="5" fill="#E2CA83"/>
+  <text x="425" y="22" text-anchor="middle" font-family="'Fira Code', monospace" font-size="11" fill="#8F9E94" letter-spacing="2">manpreet@chandigarh-core : active-session</text>
 
-  <!-- Command Line Content -->
-  <g transform="translate(24, 60)">
-    <text y="0" class="term-text"><tspan class="term-gold">mxnpreet7@sviet:~$</tspan> query --profile --verbose</text>
-    <text y="24" class="term-green">[i] Identity       :</text><text x="175" y="24" class="term-text">Manpreet Singh (Software Developer &amp; AI Prompt Architect)</text>
-    <text y="48" class="term-green">[i] Academia       :</text><text x="175" y="48" class="term-text">B.Tech in Computer Science &amp; Engineering [PTU Curriculum]</text>
-    <text y="72" class="term-green">[i] Core Competence:</text><text x="175" y="72" class="term-text">C++ Systems, Python Automation, Full-Stack Web, LLM Engineering</text>
-    <text y="96" class="term-green">[i] Freelance Hub  :</text><text x="175" y="96" class="term-text">Enterprise Prompt Packs, Technical Resumes, Brand Copy Systems</text>
-    <text y="120" class="term-comment">/* Status: Deploying scalable architecture with intentional execution */</text>
-    <text y="148" class="term-gold">mxnpreet7@sviet:~$ <tspan class="cursor">█</tspan></text>
+  <!-- Interactive Content Flow -->
+  <g transform="translate(26, 64)">
+    <text y="0" class="term-body"><tspan class="gold-tag">mxnpreet7@core:~$</tspan> query --profile --verbose</text>
+    <text y="26" class="dim-tag">[+] Identity        :</text><text x="180" y="26" class="term-body">Manpreet Singh (Software Developer &amp; AI Prompt Architect)</text>
+    <text y="52" class="dim-tag">[+] Education       :</text><text x="180" y="52" class="term-body">B.Tech Computer Science &amp; Engineering (PTU Curriculum)</text>
+    <text y="78" class="dim-tag">[+] Core Stack      :</text><text x="180" y="78" class="term-body">C, C++, Python, Modern Web, Prompt Architecture</text>
+    <text y="104" class="dim-tag">[+] Freelance Hub   :</text><text x="180" y="104" class="term-body">Custom Prompt Systems, Executive Resumes, Content Architecture</text>
+    <text y="130" class="comment-tag">/* Status: 100% operational | Delivering high-yield precision solutions */</text>
+    <text y="160" class="gold-tag">mxnpreet7@core:~$ <tspan class="cursor-blink">█</tspan></text>
   </g>
 </svg>
 
@@ -228,7 +243,7 @@
 <br/><br/>
 
 #### `Generative AI & Prompt Engineering Orchestration`
-*Treating prompt design and model steering as an authoritative architectural discipline.*
+*Treating Prompt Engineering as an exact, high-leverage architectural discipline.*
 <br/><br/>
 
 <a href="#ai">
@@ -263,17 +278,17 @@
 
 ---
 
-### 💼 Professional Focus & Client Offerings
+### 💼 Specializations & Professional Focus
 
 ```yaml
-Freelance Practice & AI Solutions:
+Freelance Practice & AI Orchestration:
   - Specialization: Precision Prompt Engineering & Content Systems
   - Offerings:
       ├── High-Impact Custom LLM Prompt Packages
-      ├── Executive & Tech-Focused Resume Architectures
+      ├── Executive & Technical Resume Architectures
       └── Engagement-Engineered Digital Copy & Captions
 
-Software & Web Craft:
-  - Architecture: Responsive, Modern Digital Interfaces
-  - Standard: Semantic cleanliness, high performance, and curated UI
-  - Tooling: Git, GitHub, VS Code, Clean Algorithms in C/C++
+Software Engineering & Web Craft:
+  - Architecture: High-Performance, Accessible Interfaces
+  - Philosophy: Minimal overhead, clean syntax, structured algorithms
+  - Stack: C, C++, Python, Git Workflow, Modern Frontend
