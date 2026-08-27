@@ -1,46 +1,17 @@
-<div align="center">
+MIT License
 
-<!-- HERO BANNER -->
-<img src="./assets/header.svg" alt="Manpreet Singh - Student Developer" width="100%" />
+Copyright (c) 2026 Manpreet Singh
 
-<br />
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-# MANPREET SINGH
-### `STUDENT DEVELOPER` • `CSE` • `AI EXPLORER`
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-<p align="center">
-  <em>Building with code. Exploring AI. Creating what's next.</em>
-</p>
-
-<!-- TOP STATUS CHIPS -->
-<p align="center">
-  <a href="https://github.com/mxnpreet7">
-    <img src="https://img.shields.io/badge/GitHub-mxnpreet7-0D0D12?style=for-the-badge&logo=github&logoColor=white&labelColor=050507&color=E23636" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/manpreet-singh-7063703b2/">
-    <img src="https://img.shields.io/badge/LinkedIn-Manpreet_Singh-0D0D12?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=050507&color=16161E" alt="LinkedIn" />
-  </a>
-  <a href="mailto:iammanpreet640@gmail.com">
-    <img src="https://img.shields.io/badge/Email-iammanpreet640@gmail.com-0D0D12?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=050507&color=16161E" alt="Email" />
-  </a>
-</p>
-
-<img src="./assets/divider.svg" alt="Divider" width="100%" />
-
-</div>
-
-<br />
-
-## 🕷️ 01 // ABOUT ME
-
-```yaml
-developer:
-  name: Manpreet Singh
-  role: Student Developer
-  education:
-    degree: Bachelor of Technology (Computer Science & Engineering)
-    year: 2nd Year
-    institution: Swami Vivekanand Institute of Engineering and Technology (SVIET)
-  location: Chandigarh, India
-  born: 2008
-  core_drive: "Bridging software fundamentals with modern web engineering and artificial intelligence."
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
