@@ -1,87 +1,62 @@
-&lt;div align="center"&gt;
+<!-- ============================================================ -->
+<!-- 🕷️ SPIDER-VERSE HERO HEADER & DYNAMIC ANIMATION BANNER         -->
+<!-- ============================================================ -->
 
-&lt;!-- Animated Typing Header --&gt;
-&lt;a href="https://git.io/typing-svg"&gt;
-  &lt;img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Manpreet+Singh;Student+Developer;React+%7C+Tailwind+%7C+Frontend;Building+The+Future+%F0%9F%9A%80" alt="Typing SVG" /&gt;
-&lt;/a&gt;
+<div align="center">
 
-&lt;!-- Animated Wave --&gt;
-&lt;img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="60" height="60" /&gt;
+  <!-- Animated Web Header Divider (Spidey Red / Shadow Black Gradient) -->
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=2,18,22,29&height=180&section=header&text=MANPREET%20SINGH&fontSize=42&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn" width="100%" />
 
-&lt;h3&gt;🌐 Personal Portfolio Website&lt;/h3&gt;
+  <!-- Animated Spider-Man Pixel GIF -->
+  <img src="https://media.giphy.com/media/BWD3CtucuBX2fvLqDO/giphy.gif" width="100" alt="Spider-Man Web Swing" />
 
-&lt;p&gt;
-  &lt;em&gt;A modern, responsive, and animated developer portfolio built with React & Tailwind CSS&lt;/em&gt;
-&lt;/p&gt;
+  <br/>
 
-&lt;!-- Badges --&gt;
-&lt;p&gt;
-  &lt;img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /&gt;
-  &lt;img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /&gt;
-  &lt;img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /&gt;
-  &lt;img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /&gt;
-  &lt;img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" /&gt;
-&lt;/p&gt;
+  <!-- Dynamic Typing Headline SVG (Neon Red & Electric Blue) -->
+  <a href="https://github.com/mxnpreet7">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1000&color=E23636&center=true&vCenter=true&multiline=false&width=650&height=70&lines=With+great+coding+comes+great+responsibility.+%F0%9F%95%B8%EF%B8%8F;Student+Developer+%26+Web+Architect+%E2%9A%A1;Swinging+Through+Full+Stack+Code+%F0%9F%9A%80" alt="Spidey Typing SVG" />
+  </a>
 
-&lt;p&gt;
-  &lt;img src="https://img.shields.io/github/stars/mxnpreet7/portfolio?style=social" alt="Stars" /&gt;
-  &lt;img src="https://img.shields.io/github/forks/mxnpreet7/portfolio?style=social" alt="Forks" /&gt;
-  &lt;img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License" /&gt;
-&lt;/p&gt;
+  <p align="center">
+    <b>🕷️ Friendly Neighborhood Developer</b> • <b>📍 Chandigarh, India</b> • <b>🎓 B.Tech @ SVIET</b>
+  </p>
 
-&lt;!-- Animated Divider --&gt;
-&lt;img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"&gt;
+  <!-- Interactive Spidey Badges -->
+  <p align="center">
+    <a href="https://linkedin.com/in/manpreet-singh-7063703b2/">
+      <img src="https://img.shields.io/badge/LinkedIn-🕸️_Spider_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:iammanpreet640@gmail.com">
+      <img src="https://img.shields.io/badge/Email-⚡_Spider_Signal-E23636?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://github.com/mxnpreet7">
+      <img src="https://img.shields.io/badge/GitHub-🕷️_Secret_HQ-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
 
-&lt;/div&gt;
+</div>
 
-## ✨ Live Demo
-
-&lt;div align="center"&gt;
-
-🚀 **[View Live Portfolio](https://mxnpreet7.github.io/portfolio)** &nbsp;|&nbsp; 📄 **[Download Resume](https://mxnpreet7.github.io/portfolio/resume.pdf)**
-
-&lt;br&gt;
-
-[![Portfolio Preview](https://img.shields.io/badge/👁️_Preview_Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://mxnpreet7.github.io/portfolio)
-[![GitHub Repo](https://img.shields.io/badge/⭐_Star_this_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mxnpreet7/portfolio)
-
-&lt;/div&gt;
+<br/>
 
 ---
 
-## 🎯 Overview
+<!-- ============================================================ -->
+<!-- 🕸️ ABOUT THE HERO (PROFILE DOSSIER)                          -->
+<!-- ============================================================ -->
 
-&gt; A **production-ready**, fully responsive personal portfolio website designed for student developers seeking internships, hackathons, and junior developer opportunities. Built with modern frontend technologies and smooth animations to create a memorable first impression.
+## <img src="https://media.giphy.com/media/Kzb1zdt7cKOKR4RCZB/giphy.gif" width="30"> Identity Dossier
 
-### 🏗️ What's Inside
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/spider.png" width="100%" />
+</div>
 
-| Section | Description |
-|---------|-------------|
-| 🏠 **Hero** | Animated intro with typing effect & call-to-action buttons |
-| 👤 **About** | Professional bio with floating card design |
-| 🛠️ **Skills** | Categorized tech stack with hover animations |
-| 📁 **Projects** | Modern project cards with live demos & GitHub links |
-| 🎓 **Education** | Clean timeline design showcasing academic journey |
-| 📬 **Contact** | Interactive form with social links |
-| 🦶 **Footer** | Minimalist footer with quick links |
-
----
-
-## 🎨 Design Highlights
-
-&lt;div align="center"&gt;
-
-| Feature | Implementation |
-|---------|---------------|
-| 🌙 **Dark Theme** | Sleek dark mode with cyan accent palette |
-| ✨ **Framer Motion** | Smooth scroll-triggered animations & transitions |
-| 📱 **Responsive** | Mobile-first design — works on all devices |
-| 🎯 **Interactive** | Hover effects, micro-interactions & feedback |
-| ⚡ **Performance** | Optimized images, lazy loading & code splitting |
-| ♿ **Accessible** | Semantic HTML, ARIA labels & keyboard navigation |
-
-&lt;/div&gt;
-
----
-
-## 🛠️ Tech Stack
+```yaml
+hero_identity:
+  alias: Manpreet Singh
+  class: Student Developer & Code Slinger
+  headquarters: Chandigarh, India
+  base_of_study: SVIET Banur / IKGPTU
+  superpowers:
+    - Lightning-fast Frontend UI Development (React + Tailwind)
+    - Problem Solving & Computational Thinking (C++, Python)
+    - Clean Code Architecture & Responsive Web Systems
