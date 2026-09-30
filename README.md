@@ -74,7 +74,7 @@ const manpreet = {
   languages: ["C", "C++", "Python", "Java"],
   swinging:  ["Web", "AI workflows", "Prompt systems"],
   motto:     "Great prompts come with great responsibility.",
-  spiderSense: () => "tingles when the code has a bug",
+  spiderSense: () => "tingles when the code has a bug"
 };
 ```
 
