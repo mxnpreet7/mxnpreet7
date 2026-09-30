@@ -259,26 +259,9 @@ flowchart LR
 
 <a id="github"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E40AF,100:E62429&height=64&text=06%20%E2%80%94%20SPIDEY-SENSE%20STATS&fontSize=26&fontColor=FFFFFF&fontAlign=50&fontAlignY=52" width="100%" alt="06 Spidey-sense stats: GitHub">
 
-<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mxnpreet7&bg_color=0B0F1A&color=FFFFFF&line=E62429&point=3B82F6&area_color=1E40AF&area=true&hide_border=true&custom_title=THE%20BUILD%20LOG" width="100%" alt="GitHub contribution activity graph">
 
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=mxnpreet7&hide_border=true&background=0B0F1A&ring=E62429&fire=3B82F6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E62429&sideLabels=3B82F6&dates=9CA3AF" width="70%" alt="GitHub streak stats">
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=mxnpreet7&show_icons=true&hide_border=true&bg_color=0B0F1A&title_color=E62429&text_color=FFFFFF&icon_color=3B82F6&ring_color=E62429&include_all_commits=true" height="180" alt="GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxnpreet7&layout=compact&hide_border=true&bg_color=0B0F1A&title_color=3B82F6&text_color=FFFFFF" height="180" alt="Top languages">
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=mxnpreet7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub profile trophies">
-
-<br>
 
 > **Small commits. Long-term compounding.**
 
