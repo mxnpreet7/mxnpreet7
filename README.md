@@ -68,8 +68,8 @@ I learn by building: take an idea, break it apart, experiment with it, and turn 
 
 # 👋 Hi, I'm STARBOY
 
-<alias:       STARBOY>
-role:        B.Tech CSE Student @ SVIET
+<p>alias:       STARBOY<p>
+<p>role:        B.Tech CSE Student @ SVIET</p>
 location:    Chandigarh, India
 languages:   C, C++, Python, Java
 swinging:    Web, AI workflows, Prompt systems
