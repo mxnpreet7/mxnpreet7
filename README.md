@@ -68,17 +68,13 @@ I learn by building: take an idea, break it apart, experiment with it, and turn 
 
 # 👋 Hi, I'm STARBOY
 
-```javascript
-const manpreet = {
-  alias:     "STARBOY",
-  role:      "B.Tech CSE Student @ SVIET",
-  location:  "Chandigarh, India",
-  languages: ["C", "C++", "Python", "Java"],
-  swinging:  ["Web", "AI workflows", "Prompt systems"],
-  motto:     "Great prompts come with great responsibility.",
-  spiderSense: () => "tingles when the code has a bug"
-};
-```
+alias:       STARBOY
+role:        B.Tech CSE Student @ SVIET
+location:    Chandigarh, India
+languages:   C, C++, Python, Java
+swinging:    Web, AI workflows, Prompt systems
+motto:       Great prompts come with great responsibility.
+spiderSense: tingles when the code has a bug
 
 > 🕸️ *"Great prompts come with great responsibility."*
 
