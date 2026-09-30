@@ -68,13 +68,15 @@ I learn by building: take an idea, break it apart, experiment with it, and turn 
 
 # 👋 Hi, I'm STARBOY
 
-<p>alias:       STARBOY<p>
-<p>role:        B.Tech CSE Student @ SVIET</p>
-location:    Chandigarh, India
-languages:   C, C++, Python, Java
-swinging:    Web, AI workflows, Prompt systems
-motto:       Great prompts come with great responsibility.
-spiderSense: tingles when the code has a bug
+<div class="profile">
+  <p><strong>alias:</strong> STARBOY</p>
+  <p><strong>role:</strong> B.Tech CSE Student @ SVIET</p>
+  <p><strong>location:</strong> Chandigarh, India</p>
+  <p><strong>languages:</strong> C, C++, Python, Java</p>
+  <p><strong>swinging:</strong> Web, AI workflows, Prompt systems</p>
+  <p><strong>motto:</strong> Great prompts come with great responsibility.</p>
+  <p><strong>spiderSense:</strong> tingles when the code has a bug</p>
+</div>
 
 > 🕸️ *"Great prompts come with great responsibility."*
 
