@@ -67,18 +67,18 @@ I learn by building: take an idea, break it apart, experiment with it, and turn 
 </table>
 
 # 👋 Hi, I'm STARBOY
+<dl class="profile">
+  <dt>alias</dt>       <dd>STARBOY</dd>
+  <dt>role</dt>        <dd>B.Tech CSE Student @ SVIET</dd>
+  <dt>location</dt>    <dd>Chandigarh, India</dd>
+  <dt>languages</dt>   <dd>C, C++, Python, Java</dd>
+  <dt>swinging</dt>    <dd>Web, AI workflows, Prompt systems</dd>
+  <dt>motto</dt>       <dd>Great prompts come with great responsibility.</dd>
+  <dt>spiderSense</dt> <dd>tingles when the code has a bug</dd>
+</dl>
 
-<div class="profile">
-  <p><strong>alias:</strong> STARBOY</p>
-  <p><strong>role:</strong> B.Tech CSE Student @ SVIET</p>
-  <p><strong>location:</strong> Chandigarh, India</p>
-  <p><strong>languages:</strong> C, C++, Python, Java</p>
-  <p><strong>swinging:</strong> Web, AI workflows, Prompt systems</p>
-  <p><strong>motto:</strong> Great prompts come with great responsibility.</p>
-  <p><strong>spiderSense:</strong> tingles when the code has a bug</p>
-</div>
 
-> 🕸️ *"Great prompts come with great responsibility."*
+ 🕸️ *"Great prompts come with great responsibility."*
 
 <a id="exploring"></a>
 
