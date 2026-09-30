@@ -66,7 +66,9 @@ I learn by building: take an idea, break it apart, experiment with it, and turn 
 </tr>
 </table>
 
-```js
+# 👋 Hi, I'm STARBOY
+
+```javascript
 const manpreet = {
   alias:     "STARBOY",
   role:      "B.Tech CSE Student @ SVIET",
@@ -77,6 +79,8 @@ const manpreet = {
   spiderSense: () => "tingles when the code has a bug"
 };
 ```
+
+> 🕸️ *"Great prompts come with great responsibility."*
 
 <a id="exploring"></a>
 
