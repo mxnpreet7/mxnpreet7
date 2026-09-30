@@ -1,19 +1,21 @@
 <!-- ═══════════════════════════════════════════════════════════
-     MANPREET SINGH · STARBOY · GitHub Profile README
-     Palette: #7F00FF (violet) · #E100FF (magenta) · #00C6FF (cyan)
+     MANPREET SINGH · STARBOY · Spider-Verse themed README
+     Palette: #E62429 (suit red) · #1E40AF (deep blue) · #3B82F6 (web blue)
+              #0B0F1A (night-city black) · #FFFFFF
+     No official logos or artwork used: colour, type and emoji only.
      ═══════════════════════════════════════════════════════════ -->
 
 <a id="top"></a>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:00C6FF&height=230&section=header&text=MANPREET%20SINGH&fontSize=52&fontColor=FFFFFF&fontAlignY=36&animation=twinkling&desc=STARBOY%20%E2%80%A2%20CSE%20%E2%80%A2%20AI%20%E2%80%A2%20DEVELOPER&descAlignY=58&descSize=16&descColor=FFFFFF" width="100%" alt="Manpreet Singh animated header">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E62429,55:9B1C31,100:1E40AF&height=250&section=header&text=MANPREET%20SINGH&fontSize=54&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=%F0%9F%95%B7%EF%B8%8F%20STARBOY%20%E2%80%A2%20CSE%20%E2%80%A2%20AI%20%E2%80%A2%20DEVELOPER%20%F0%9F%95%B8%EF%B8%8F&descAlignY=60&descSize=17&descColor=FFFFFF" width="100%" alt="Manpreet Singh animated header">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=2600&pause=900&color=B455FF&center=true&vCenter=true&repeat=true&width=760&height=50&lines=Developer+%7C+AI+Explorer+%7C+Prompt+Engineer;Building+ideas+into+digital+experiences;Curious.+Creative.+Always+Learning." alt="Typing animation: Developer, AI Explorer, Prompt Engineer">
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=2600&pause=900&color=E62429&center=true&vCenter=true&repeat=true&width=780&height=50&lines=Developer+%7C+AI+Explorer+%7C+Prompt+Engineer;Swinging+ideas+into+digital+experiences;Curious.+Creative.+Always+Learning." alt="Typing animation: Developer, AI Explorer, Prompt Engineer">
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=mxnpreet7&style=for-the-badge&color=7F00FF&label=PROFILE+VIEWS" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=mxnpreet7&style=for-the-badge&color=E62429&label=PROFILE+VIEWS" alt="Profile views">
 
 <br><br>
 
@@ -23,22 +25,24 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/mxnpreet7)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/manpreet-singh-7063703b2/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://www.instagram.com/thmnprt/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:iammanpreet640@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0B0F1A?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/mxnpreet7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E40AF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/manpreet-singh-7063703b2/)
+[![Instagram](https://img.shields.io/badge/Instagram-E62429?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://www.instagram.com/thmnprt/)
+[![Email](https://img.shields.io/badge/Email-0B0F1A?style=for-the-badge&logo=gmail&logoColor=E62429)](mailto:iammanpreet640@gmail.com)
 
 <br>
 
-**[ABOUT](#about)** · **[EXPLORING](#exploring)** · **[AI](#ai)** · **[STACK](#stack)** · **[PROJECTS](#projects)** · **[GITHUB](#github)** · **[INTERESTS](#interests)** · **[CONNECT](#connect)**
+**[ORIGIN](#about)** · **[SUIT UP](#exploring)** · **[WEB OF AI](#ai)** · **[GADGETS](#stack)** · **[MISSIONS](#projects)** · **[STATS](#github)** · **[OFF-DUTY](#interests)** · **[SWING BY](#connect)**
+
+<br>
+
+🕷️ ━━━━━━━━━ 🕸️ ━━━━━━━━━ 🕷️
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00C6FF&height=2" width="100%" alt="">
-
 <a id="about"></a>
 
-## `01` &nbsp;ABOUT
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E62429,100:1E40AF&height=64&text=01%20%E2%80%94%20ORIGIN%20STORY&fontSize=26&fontColor=FFFFFF&fontAlign=50&fontAlignY=52" width="100%" alt="01 Origin story">
 
 <table>
 <tr>
@@ -53,10 +57,10 @@ I learn by building: take an idea, break it apart, experiment with it, and turn 
 </td>
 <td width="42%" valign="top" align="center">
 
-<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-7F00FF?style=for-the-badge" alt="Status: learning and building"><br>
-<img src="https://img.shields.io/badge/BASED%20IN-CHANDIGARH-E100FF?style=for-the-badge" alt="Based in Chandigarh"><br>
-<img src="https://img.shields.io/badge/HOMETOWN-NAGINA-00C6FF?style=for-the-badge" alt="Hometown: Nagina"><br>
-<img src="https://img.shields.io/badge/IDENTITY-STARBOY-111111?style=for-the-badge" alt="Identity: Starboy">
+<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-E62429?style=for-the-badge" alt="Status: learning and building"><br>
+<img src="https://img.shields.io/badge/BASED%20IN-CHANDIGARH-1E40AF?style=for-the-badge" alt="Based in Chandigarh"><br>
+<img src="https://img.shields.io/badge/HOMETOWN-NAGINA-3B82F6?style=for-the-badge" alt="Hometown: Nagina"><br>
+<img src="https://img.shields.io/badge/IDENTITY-STARBOY-0B0F1A?style=for-the-badge" alt="Identity: Starboy">
 
 </td>
 </tr>
@@ -64,19 +68,19 @@ I learn by building: take an idea, break it apart, experiment with it, and turn 
 
 ```js
 const manpreet = {
-  alias:    "STARBOY",
-  role:     "B.Tech CSE Student @ SVIET",
-  location: "Chandigarh, India",
+  alias:     "STARBOY",
+  role:      "B.Tech CSE Student @ SVIET",
+  location:  "Chandigarh, India",
   languages: ["C", "C++", "Python", "Java"],
-  building:  ["Web", "AI workflows", "Prompt systems"],
-  mindset:   "Build first. Document honestly. Improve constantly.",
-  currentlyLearning: () => "everything worth understanding",
+  swinging:  ["Web", "AI workflows", "Prompt systems"],
+  motto:     "Great prompts come with great responsibility.",
+  spiderSense: () => "tingles when the code has a bug",
 };
 ```
 
 <a id="exploring"></a>
 
-## `02` &nbsp;CURRENTLY EXPLORING
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E40AF,100:E62429&height=64&text=02%20%E2%80%94%20SUIT%20UP&fontSize=26&fontColor=FFFFFF&fontAlign=50&fontAlignY=52" width="100%" alt="02 Suit up: currently exploring">
 
 <div align="center">
 
@@ -119,15 +123,13 @@ Data Science<br>Creative Technology
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00C6FF&height=2" width="100%" alt="">
-
 <a id="ai"></a>
 
-## `03` &nbsp;AI × PROMPT ENGINEERING
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E62429,100:1E40AF&height=64&text=03%20%E2%80%94%20WEB%20OF%20AI&fontSize=26&fontColor=FFFFFF&fontAlign=50&fontAlignY=52" width="100%" alt="03 Web of AI: prompt engineering">
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1800&pause=700&color=FF4DDB&center=true&vCenter=true&width=650&height=45&lines=AI+is+a+tool.;Curiosity+is+the+engine.;Learning+is+the+advantage." alt="AI is a tool. Curiosity is the engine. Learning is the advantage.">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1800&pause=700&color=3B82F6&center=true&vCenter=true&width=650&height=45&lines=AI+is+a+tool.;Curiosity+is+the+engine.;Learning+is+the+advantage." alt="AI is a tool. Curiosity is the engine. Learning is the advantage.">
 
 </div>
 
@@ -136,7 +138,7 @@ Data Science<br>Creative Technology
 I enjoy designing structured interactions between humans and AI systems.
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#7F00FF','primaryTextColor':'#ffffff','primaryBorderColor':'#E100FF','lineColor':'#00C6FF','fontFamily':'monospace'}}}%%
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#E62429','primaryTextColor':'#ffffff','primaryBorderColor':'#3B82F6','lineColor':'#3B82F6','fontFamily':'monospace'}}}%%
 flowchart LR
     A([CONTEXT]) --> B([STRUCTURE]) --> C([PROMPT]) --> D([OUTPUT]) --> E([ITERATE ↻])
     E -.-> A
@@ -164,11 +166,9 @@ Productivity systems
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00C6FF&height=2" width="100%" alt="">
-
 <a id="stack"></a>
 
-## `04` &nbsp;TECH STACK
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E40AF,100:E62429&height=64&text=04%20%E2%80%94%20GADGETS&fontSize=26&fontColor=FFFFFF&fontAlign=50&fontAlignY=52" width="100%" alt="04 Gadgets: tech stack">
 
 <div align="center">
 
@@ -190,11 +190,7 @@ Productivity systems
 <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge" alt="DeepSeek">
 <img src="https://img.shields.io/badge/Kimi-7C3AED?style=for-the-badge" alt="Kimi">
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 | `CODE` | `BUILD` | `THINK` | `EXPLORE` |
 |:---:|:---:|:---:|:---:|
@@ -204,15 +200,13 @@ Productivity systems
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00C6FF&height=2" width="100%" alt="">
-
 <a id="projects"></a>
 
-## `05` &nbsp;PROJECTS
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E62429,100:1E40AF&height=64&text=05%20%E2%80%94%20MISSIONS&fontSize=26&fontColor=FFFFFF&fontAlign=50&fontAlignY=52" width="100%" alt="05 Missions: projects">
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=700&color=00C6FF&center=true&vCenter=true&width=600&height=40&lines=BUILD+SOMETHING.;BREAK+SOMETHING.;LEARN+SOMETHING.;BUILD+AGAIN." alt="Build, break, learn, build again">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=700&color=E62429&center=true&vCenter=true&width=600&height=40&lines=BUILD+SOMETHING.;BREAK+SOMETHING.;LEARN+SOMETHING.;BUILD+AGAIN." alt="Build, break, learn, build again">
 
 </div>
 
@@ -222,7 +216,7 @@ Rather than filling this section with invented projects, I let real work earn it
 <tr>
 <td width="50%" valign="top">
 
-### 🚧 BUILDING
+### 🚧 ON PATROL
 - Academic projects
 - Web experiments
 - AI experiments
@@ -231,7 +225,7 @@ Rather than filling this section with invented projects, I let real work earn it
 </td>
 <td width="50%" valign="top">
 
-### 🔬 EXPERIMENTING
+### 🔬 IN THE LAB
 - AI workflows
 - Prompt engineering
 - Modern interfaces
@@ -242,65 +236,59 @@ Rather than filling this section with invented projects, I let real work earn it
 </table>
 
 <!--
-  PINNED REPO CARDS — uncomment once you have repos to show.
+  PINNED REPO CARDS: uncomment once you have repos to show.
   Replace YOUR_REPO with the exact repository name.
 
 <div align="center">
 <a href="https://github.com/mxnpreet7/YOUR_REPO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mxnpreet7&repo=YOUR_REPO&theme=radical&hide_border=true&bg_color=0D1117&title_color=B455FF&icon_color=FF4DDB&text_color=FFFFFF" alt="Pinned repo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mxnpreet7&repo=YOUR_REPO&hide_border=true&bg_color=0B0F1A&title_color=E62429&icon_color=3B82F6&text_color=FFFFFF" alt="Pinned repo">
 </a>
 </div>
 -->
 
-<a id="learning"></a>
-
-### 🔁 Learning philosophy
+### 🔁 Learning loop
 
 *I learn best when theory meets implementation.*
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#7F00FF','primaryTextColor':'#ffffff','primaryBorderColor':'#00C6FF','lineColor':'#E100FF','fontFamily':'monospace'}}}%%
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#1E40AF','primaryTextColor':'#ffffff','primaryBorderColor':'#E62429','lineColor':'#E62429','fontFamily':'monospace'}}}%%
 flowchart LR
     L([LEARN]) --> B([BUILD]) --> K([BREAK]) --> U([UNDERSTAND]) --> R([REBUILD ↻])
     R -.-> L
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00C6FF&height=2" width="100%" alt="">
-
 <a id="github"></a>
 
-## `06` &nbsp;GITHUB
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E40AF,100:E62429&height=64&text=06%20%E2%80%94%20SPIDEY-SENSE%20STATS&fontSize=26&fontColor=FFFFFF&fontAlign=50&fontAlignY=52" width="100%" alt="06 Spidey-sense stats: GitHub">
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mxnpreet7&bg_color=0D1117&color=FFFFFF&line=7F00FF&point=FF4DDB&area_color=00C6FF&area=true&hide_border=true&custom_title=THE%20BUILD%20LOG" width="100%" alt="GitHub contribution activity graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mxnpreet7&bg_color=0B0F1A&color=FFFFFF&line=E62429&point=3B82F6&area_color=1E40AF&area=true&hide_border=true&custom_title=THE%20BUILD%20LOG" width="100%" alt="GitHub contribution activity graph">
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=mxnpreet7&hide_border=true&background=0D1117&ring=B455FF&fire=FF4DDB&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00C6FF&sideLabels=00C6FF&dates=9CA3AF" width="70%" alt="GitHub streak stats">
+<img src="https://streak-stats.demolab.com/?user=mxnpreet7&hide_border=true&background=0B0F1A&ring=E62429&fire=3B82F6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E62429&sideLabels=3B82F6&dates=9CA3AF" width="70%" alt="GitHub streak stats">
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mxnpreet7&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B455FF&text_color=FFFFFF&icon_color=FF4DDB&ring_color=00C6FF&include_all_commits=true" height="180" alt="GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxnpreet7&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=FFFFFF" height="180" alt="Top languages">
+<img src="https://github-readme-stats.vercel.app/api?username=mxnpreet7&show_icons=true&hide_border=true&bg_color=0B0F1A&title_color=E62429&text_color=FFFFFF&icon_color=3B82F6&ring_color=E62429&include_all_commits=true" height="180" alt="GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxnpreet7&layout=compact&hide_border=true&bg_color=0B0F1A&title_color=3B82F6&text_color=FFFFFF" height="180" alt="Top languages">
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=mxnpreet7&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub profile trophies">
+<img src="https://github-profile-trophy.vercel.app/?username=mxnpreet7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub profile trophies">
 
 <br>
 
 > **Small commits. Long-term compounding.**
 
-[![Explore my GitHub](https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-7F00FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mxnpreet7)
+[![Explore my GitHub](https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-E62429?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mxnpreet7)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00C6FF&height=2" width="100%" alt="">
-
 <a id="interests"></a>
 
-## `07` &nbsp;PERSONAL INTERESTS
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E62429,100:1E40AF&height=64&text=07%20%E2%80%94%20OFF-DUTY&fontSize=26&fontColor=FFFFFF&fontAlign=50&fontAlignY=52" width="100%" alt="07 Off-duty: personal interests">
 
 <div align="center">
 
@@ -338,33 +326,33 @@ flowchart LR
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00C6FF&height=2" width="100%" alt="">
-
-## `08` &nbsp;STARBOY
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E40AF,100:E62429&height=64&text=08%20%E2%80%94%20STARBOY&fontSize=26&fontColor=FFFFFF&fontAlign=50&fontAlignY=52" width="100%" alt="08 Starboy">
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=38&duration=3000&pause=1000&color=FF4DDB&center=true&vCenter=true&width=700&height=70&lines=STARBOY;NOT+A+TITLE.;A+MINDSET." alt="STARBOY. Not a title. A mindset.">
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=38&duration=3000&pause=1000&color=E62429&center=true&vCenter=true&width=700&height=70&lines=STARBOY;NOT+A+TITLE.;A+MINDSET." alt="STARBOY. Not a title. A mindset.">
 
 </div>
 
 <a id="connect"></a>
 
-## `09` &nbsp;LET'S CONNECT
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E62429,100:1E40AF&height=64&text=09%20%E2%80%94%20SWING%20BY&fontSize=26&fontColor=FFFFFF&fontAlign=50&fontAlignY=52" width="100%" alt="09 Swing by: let's connect">
 
 <div align="center">
 
 Got an idea, a collab, or just want to talk AI, code, or design? Reach out.
 
-[![GitHub](https://img.shields.io/badge/GitHub-mxnpreet7-111111?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/mxnpreet7)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/manpreet-singh-7063703b2/)
-[![Instagram](https://img.shields.io/badge/Instagram-@thmnprt-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://www.instagram.com/thmnprt/)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:iammanpreet640@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-mxnpreet7-0B0F1A?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/mxnpreet7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1E40AF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/manpreet-singh-7063703b2/)
+[![Instagram](https://img.shields.io/badge/Instagram-@thmnprt-E62429?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://www.instagram.com/thmnprt/)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-0B0F1A?style=for-the-badge&logo=gmail&logoColor=E62429)](mailto:iammanpreet640@gmail.com)
 
 <br>
 
+🕷️ ━━━━━━━━━ 🕸️ ━━━━━━━━━ 🕷️
+
 **[↑ Back to top](#top)**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:E100FF,100:7F00FF&height=130&section=footer&animation=fadeIn" width="100%" alt="">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E40AF,55:9B1C31,100:E62429&height=130&section=footer&animation=fadeIn" width="100%" alt="">
 
 </div>
